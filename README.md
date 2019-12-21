@@ -61,4 +61,4 @@ https://github.com/firebase/emberfire/issues/556#issuecomment-421593042
 
 ---
 
-![](https://raw.githubusercontent.com/atabegruslan/ember/master/Illustrations/FireBase.PNG)
+![](https://raw.githubusercontent.com/atabegruslan/Ember-FireBase-MVVC-CRUD-App/master/Illustrations/FireBase.PNG)
