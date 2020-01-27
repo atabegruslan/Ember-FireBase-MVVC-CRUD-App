@@ -6,6 +6,7 @@
 - https://www.youtube.com/playlist?list=PL-lxoPS_1OXWBn3h1mNyX2ZVGYsn5-akf (Old but good reference)
 	- https://www.programwitherik.com/emberjs_2-0_example_app_with_firebase/
 - https://www.youtube.com/playlist?list=PL0nNJgE19Y-js_1XHA5QdEU1ed_ldOaks
+- https://www.youtube.com/watch?feature=youtu.be&v=T1SC44NJA_A
 
 ## Install
 
